@@ -1,0 +1,115 @@
+Website Development Proposal
+Major General Mulugeta Buli Polytechnic College (M.G.M.B.P.T.C)
+1. Introduction
+Major General Mulugeta Buli Polytechnic College (MGMBPTC) is one of Ethiopia’s
+leading institutions dedicated to producing competent graduates in science,
+technology, and vocational education. To enhance communication, visibility, and
+digital service delivery, the college recognizes the need for a modern, dynamic,
+and secure website that reflects its mission, achievements, and academic
+excellence.
+This proposal outlines the plan for designing, developing, and deploying a
+responsive and user-friendly website for MGMBPTC.
+2. Objectives of the Website
+The proposed website will aim to:
+1. Serve as an official digital identity for the college.
+2. Provide accessible information about academic programs, departments, and
+admissions.
+3. Enhance communication between the college, students, and stakeholders.
+4. Showcase achievements, events, research, and innovation.
+5. Offer online services such as student portal access, announcements, and
+e-learning integration.
+6. Strengthen the college’s image through a professional and visually appealing
+design.
+3. Target Users
+- Prospective students – seeking admission, programs, and entry requirements.
+- Current students – accessing announcements, results, and academic resources.
+- Staff and college– sharing information, updates, and publications.
+- Partners, alumni, and community – following college activities and projects.
+- Government and stakeholders – monitoring institutional growth and
+performance.
+4. Key Features and Pages
+a. Main Sections
+- Home
+- About the College (History, Mission, Vision, Core Values)
+- Academic Programs (Departments, TVET Levels, Curricula)
+- Admission and Registration
+- News and Events
+- Research and Innovation
+- Staff Directory
+- Student Affairs and Services
+- Contact Us
+b. Additional Features
+- Announcement and Notice Board
+- Photo and Video Gallery
+- Download Center (forms, guides, publications)
+- Feedback and Contact Form
+- Integrated Email Access (for staff/students)
+- Search Engine Optimization (SEO)
+- Multilingual Support (English & Amharic)
+- Future Integration: e-Learning Portal (Chamilo / Moodle)
+5. Technical Specifications
+Component Description
+Hosting Local or cloud-based (college server or secure external hosting)
+Domain [www.mgmbptc.edu.et](http://www.mgmbptc.edu.et) (or
+[www.buli.edu.et](http://www.buli.edu.et) if available)
+Development Platform PHP, MySQL, HTML5, CSS3, JavaScript
+Framework PHP
+Server Environment XAMMP
+Security HTTPS (SSL Certificate), regular backups, access control
+Design Responsive (mobile, tablet, and desktop friendly)
+Maintenance Admin control panel for easy content update
+6. Design Theme
+The website design will reflect:
+- Modern educational aesthetic emphasizing technology and innovation.
+- Color Scheme: Based on the college's official colors and logo.
+- Theme: "Shine Through Education and Technology" — symbolizing excellence and
+achievement.
+- Tone: Professional, academic, and welcoming.
+7. Implementation Plan
+Phase Activities Duration
+Phase 1: Requirement
+Analysis
+Identify goals, collect content, structure sitemap 1 week
+Phase 2: Design &
+Prototype
+UI/UX design, theme selection, approval 1 week
+Phase 3: Development Backend & frontend coding, database setup 2 weeks
+Phase 4: Testing Functionality, compatibility, security, bug fixing 1 week
+Phase 5: Deployment Hosting setup, domain configuration, go-live 3 days
+Phase 6: Training &
+Handover
+Admin panel training, documentation 2 days
+Total Duration: Approximately 5–6 weeks
+8. Resource Requirements
+- Hardware: College web server or hosting service
+- Software: WAMP/LAMP stack, PHP, MySQL, and CMS tools
+- Human Resources:
+- Web Developer / System Administrator
+- Graphic Designer
+- Content Writer / Editor
+- IT Department for maintenance support
+9. Estimated Budget
+Item Description Estimated Cost (ETB)
+Domain Registration (buli.edu.et) 5,000
+Hosting (1 year) Secure hosting plan 10,000
+Design & Development Full website design and setup 25,000
+Training & Documentation Admin training & manuals 5,000
+Maintenance (Yearly) Updates and support 10,000
+Total Estimated Cost 55,000 ETB
+(Adjustable based on hosting choice and scope expansion)
+10. Expected Outcomes
+- A fully functional, responsive, and secure institutional website.
+- Improved communication and transparency.
+- Enhanced visibility of MGMBPTC nationally and internationally.
+- Increased engagement with students, staff, and stakeholders.
+- Foundation for future digital systems (portal, e-learning, ERP integration).
+11. Sustainability and Maintenance
+The IT department will receive training to manage and update the website
+independently. Periodic technical support will ensure updates, backups, and
+security patches are regularly applied.
+12. Conclusion
+The proposed website will serve as a strategic digital platform that reflects
+Major General Mulugeta Buli Polytechnic College’s vision for excellence in
+technical and vocational education. By implementing this project, the college
+will enhance its digital presence, streamline information sharing, and
+strengthen its public image.
